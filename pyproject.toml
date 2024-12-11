@@ -1,4 +1,0 @@
-[project]
-name = "ReoNotesBot"
-version = "0.1"
-dependencies = ["sqlalchemy", "aiogram"]
